@@ -5,3 +5,8 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+
+#EXTINF:-1 tvg-id="ActionHollywoodMovies.au" tvg-name="Action Hollywood Movies" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/wnlzC0w.jpg" group-title="Movies",Action Hollywood Movies (1080p)
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ActionMovies.es" tvg-name="Action Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Action Movies (720p)
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
