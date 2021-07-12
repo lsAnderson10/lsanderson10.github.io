@@ -17,3 +17,13 @@ http://supersonictv.live:25461/tv/tv/5081
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
+#EXTINF:-1 ,ES: BeiN Laliga FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com2ZZ/37009
+#EXTINF:-1 ,ES: BEIN LIGA 2
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com2ZZ/142730
+#EXTINF:-1 ,ES: beIN Sport FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com2ZZ/37014
+#EXTINF:-1 ,ES: BEIN SPORTS ESPANAA FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com2ZZ/45454
+#EXTINF:-1 ,ES: BEIN SPORTS LA LIGA FHD
+http://driptvs.com:8080/@iptv4best.com/iptv4best.com2ZZ/45458
