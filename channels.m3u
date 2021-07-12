@@ -6,103 +6,17 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
-#EXTINF:-1,|Ecuador|  Canal Uno
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73409.m3u8
-#EXTINF:-1,|Ecuador|  Canal Uno Opc. 1
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73452.m3u8
-#EXTINF:-1,|Ecuador|  Canal Uno Opc. 2
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73451.m3u8
-#EXTINF:-1,|Ecuador|  Canal Uno Opc. 3
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73450.m3u8
-#EXTINF:-1,|Ecuador|  Canela TV
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73449.m3u8
-#EXTINF:-1,|Ecuador|  Directv Sports 1
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73448.m3u8
-#EXTINF:-1,|Ecuador|  Directv Sports 2
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73447.m3u8
-#EXTINF:-1,|Ecuador|  Directv Sports Plus
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73446.m3u8
-#EXTINF:-1,|Ecuador|  ECUADOR 
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73418.m3u8
-#EXTINF:-1,|Ecuador|  Ecuador TV 
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73408.m3u8
-#EXTINF:-1,|Ecuador|  Ecuador TV-HD 1080P
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73443.m3u8
-#EXTINF:-1,|Ecuador|  Ecuador TV Internacional
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73445.m3u8
-#EXTINF:-1,|Ecuador|  Ecuador TV SD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73444.m3u8
-#EXTINF:-1,|Ecuador|  Ecuavisa 
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73407.m3u8
-#EXTINF:-1,|Ecuador|  Ecuavisa Internacional
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73439.m3u8
-#EXTINF:-1,|Ecuador|  Ecuavisa Opc. 1
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73442.m3u8
-#EXTINF:-1,|Ecuador|  Ecuavisa Opc. 2
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73441.m3u8
-#EXTINF:-1,|Ecuador|  Ecuavisa Opc. 3
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73440.m3u8
-#EXTINF:-1,|Ecuador|  Ecuavisa SD 
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73410.m3u8
-#EXTINF:-1,|Ecuador|  EL CANAL DEL FUTBOL FHD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73405.m3u8
-#EXTINF:-1,|Ecuador|  EL CANAL DEL FUTBOL HD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73404.m3u8
-#EXTINF:-1,|Ecuador|  EL CANAL DEL FUTBOL SD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73403.m3u8
-#EXTINF:-1,|Ecuador|  Gamavision
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73438.m3u8
-#EXTINF:-1,|Ecuador|  Gamavision 
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73411.m3u8
-#EXTINF:-1,|Ecuador|  Gol TV-HD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73435.m3u8
-#EXTINF:-1,|Ecuador|  GOL TV ECUADOR HD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73437.m3u8
-#EXTINF:-1,|Ecuador|  GOL TV ECUADOR SD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73436.m3u8
-#EXTINF:-1,|Ecuador|  GolTV Internacional
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73412.m3u8
-#EXTINF:-1,|Ecuador|  MAX TV
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73434.m3u8
-#EXTINF:-1,|Ecuador|  Oromar Television HD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73433.m3u8
-#EXTINF:-1,|Ecuador|  Oromar TV HD 
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73413.m3u8
-#EXTINF:-1,|Ecuador|  RTS HD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73431.m3u8
-#EXTINF:-1,|Ecuador|  RTS HD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73432.m3u8
-#EXTINF:-1,|Ecuador|  RTS HD 
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73414.m3u8
-#EXTINF:-1,|Ecuador|  RTS HD (Ec)
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73430.m3u8
-#EXTINF:-1,|Ecuador|  RTS SD.
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73429.m3u8
-#EXTINF:-1,|Ecuador|  SUR Canal Uno
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73428.m3u8
-#EXTINF:-1,|Ecuador|  TC MI CANAL HD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73415.m3u8
-#EXTINF:-1,|Ecuador|  TC Television
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73427.m3u8
-#EXTINF:-1,|Ecuador|  TC Television SD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73426.m3u8
-#EXTINF:-1,|Ecuador|  Teleamazonas
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73424.m3u8
-#EXTINF:-1,|Ecuador|  Teleamazonas-HD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73421.m3u8
-#EXTINF:-1,|Ecuador|  Teleamazonas HD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73416.m3u8
-#EXTINF:-1,|Ecuador|  Teleamazonas HD (Ec)
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73423.m3u8
-#EXTINF:-1,|Ecuador|  Teleamazonas Quito
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73422.m3u8
-#EXTINF:-1,|Ecuador|  TVC
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73420.m3u8
-#EXTINF:-1,|Ecuador|  TVC HD
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73417.m3u8
-#EXTINF:-1,|Ecuador|  UCSG TV
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73419.m3u8
-#EXTINF:-1,Ecuador || TELEAMAZONAS QUITO
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73425.m3u8
-#EXTINF:-1,|Ecuador| ECUAVISA HD QUITO
-http://grcts.velkas.net:2082/live/fas88_387389/YZxFBDJl/73406.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : CINE NOSTALGIA
+http://mains.services:2086/live/mikekoot/1757909/66560.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : CINE SONY
+http://mains.services:2086/live/mikekoot/1757909/66561.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : CINEMAX
+http://mains.services:2086/live/mikekoot/1757909/92613.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : CNN EN ESPANOL
+http://mains.services:2086/live/mikekoot/1757909/66553.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : CNN INTERNACIONAL
+http://mains.services:2086/live/mikekoot/1757909/92611.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : COMEDY CENTRAL
+http://mains.services:2086/live/mikekoot/1757909/98776.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : DE PELICULA
+http://mains.services:2086/live/mikekoot/1757909/66563.m3u8
