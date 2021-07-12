@@ -17,6 +17,17 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",FilmRise Movies Redbox
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
-#EXTINF:-1 tvg-id=»Ecuavisa» tvg-logo=»ecuavisa.png» group-title=»Variedades – Latinos»,Ecuavisa Ecuador
-rtmp://62.210.83.152:1834/livrepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf liv=1 pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400
+#EXTINF:-1 tvg-id="HistoryChannelBestof.us" tvg-name="History Channel (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="Documentary",History Channel (Best of)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU", MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN
+http://rv.imax.re:80/307235264240/307235264240/80944
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN 2
+http://rv.imax.re:80/307235264240/307235264240/80945
