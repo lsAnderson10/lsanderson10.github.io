@@ -6,17 +6,12 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : CINE NOSTALGIA
-http://mains.services:2086/live/mikekoot/1757909/66560.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : CINE SONY
-http://mains.services:2086/live/mikekoot/1757909/66561.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : CINEMAX
-http://mains.services:2086/live/mikekoot/1757909/92613.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : CNN EN ESPANOL
-http://mains.services:2086/live/mikekoot/1757909/66553.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : CNN INTERNACIONAL
-http://mains.services:2086/live/mikekoot/1757909/92611.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : COMEDY CENTRAL
-http://mains.services:2086/live/mikekoot/1757909/98776.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO : DE PELICULA
-http://mains.services:2086/live/mikekoot/1757909/66563.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",Filmrise Free Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",FilmRise Free Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",FilmRise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",FilmRise Movies Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
