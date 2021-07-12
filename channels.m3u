@@ -16,11 +16,5 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",FilmRise Movies Redbox
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
-#EXTINF: -1, tvg-id="" group-title="MOVIES" tvg-logo="https://www.infotelevisi.com/asset/images/tv/hbo_family.jpg", HBO Family
-https://m3u-editor.com/serve/bfc043c0-cfe6-11eb-89e7-41d619033473/319388745
-
-#EXTINF:-1, tvg-id="413" group-title="MOVIES" tvg-logo="https://telegra.ph/file/f4a09bf4f1d490d221850.png",FOX Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-
-#EXTINF:-1, tvg-id="414" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png",FOX Family
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1 tvg-id="ECUAVISAHD.us" tvg-name="ECUAVISA HD" tvg-country="US" tvg-language="" tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="",ECUAVISA HD
+https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
