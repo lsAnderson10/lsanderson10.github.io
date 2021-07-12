@@ -1,29 +1,29 @@
 #EXTM3U 
-
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="",Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="News",Canal 26 (720p)
+http://live-edge01.telecentro.net.ar/live/c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalClaro.co" tvg-name="Canal Claro" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="",Canal Claro (Colombia)
+http://186.101.216.211:8000/play/a08e
+#EXTINF:-1 tvg-id="ClaroCinema.mx" tvg-name="Claro Cinema" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="Movies",Claro Cinema (576p)
+http://209.91.213.10:8099/play/a00v
+#EXTINF:-1 tvg-id="ClaroMusica.co" tvg-name="Claro Musica" tvg-country="LATAM" tvg-language="" tvg-logo="" group-title="Music",Claro Musica
+http://209.91.213.10:8088/play/a027
+#EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="Claro Sports" tvg-country="LATAM" tvg-language="" tvg-logo="" group-title="Sports",Claro Sports
+http://209.91.213.10:8088/play/a024
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (400p)
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-id="DWLatinoAmerica.de" tvg-name="DW Latino America" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="",DW Latino America
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="El Garage TV" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Auto",El Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-name="Hechos Ecuador" tvg-country="EC" tvg-language="Spanish" tvg-logo="8YPXrcX.png" group-title="",Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="Locomotion TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="",Locomotion TV (480p)
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-id="UCSG.ec" tvg-name="UCSG" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="",UCSG
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA HD
-https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w238180654_b1300000_slen.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA 
-https://youvideostreaming.club/hls/tvec2.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA 
-http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png",CINEMAX FUL-HD
-http://supersonictv.live:25461/tv/tv/5081
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
-#EXTINF:-1 ,ES: BeiN Laliga FHD
-http://driptvs.com:8080/@iptv4best.com/iptv4best.com2ZZ/37009
-#EXTINF:-1 ,ES: BEIN LIGA 2
-http://driptvs.com:8080/@iptv4best.com/iptv4best.com2ZZ/142730
-#EXTINF:-1 ,ES: beIN Sport FHD
-http://driptvs.com:8080/@iptv4best.com/iptv4best.com2ZZ/37014
-#EXTINF:-1 ,ES: BEIN SPORTS ESPANAA FHD
-http://driptvs.com:8080/@iptv4best.com/iptv4best.com2ZZ/45454
-#EXTINF:-1 ,ES: BEIN SPORTS LA LIGA FHD
-http://driptvs.com:8080/@iptv4best.com/iptv4best.com2ZZ/45458
