@@ -7,9 +7,12 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
 
-#EXTINF:-1,USA| History
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13091
-#EXTINF:-1,USA| IFC HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13092
-#EXTINF:-1,USA| Crime Investigation Discovery HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13093
+#EXTINF:-1 tvg-country="EC" tvg-language="Spanish" tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA HD
+https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w238180654_b1300000_slen.m3u8
+#EXTINF:-1 tvg-country="EC" tvg-language="Spanish" tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA 
+https://youvideostreaming.club/hls/tvec2.m3u8
+#EXTINF:-1 tvg-country="EC" tvg-language="Spanish" tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA 
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="Ecuador",Ecuavisa
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
