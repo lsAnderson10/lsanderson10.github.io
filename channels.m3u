@@ -20,3 +20,20 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/play
 
 #EXTINF:-1 tvg-id="ECUAVISAHD.us" tvg-name="ECUAVISA HD" tvg-country="US" tvg-language="" tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="",ECUAVISA HD
 https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
+
+
+***Bein Sports***
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 1 HD
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 2 HD
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 3 HD
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 4 HD
+http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 5 HD
+http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 6 HD
+http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 7 HD
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
