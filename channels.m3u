@@ -1,49 +1,19 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_pFTD3I8CXKM/TAvP2dnp8xI/AAAAAAAAC-Q/kP0lcBYTzts/s1600/teleamazonas_logo.JPG", TA TELEAMAZONAS HD
-https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
+#EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-name="Hechos Ecuador" tvg-country="EC" tvg-language="Spanish" tvg-logo="8YPXrcX.png" group-title="",Hechos Ecuador
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
+https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:-1 tvg-id="UCSG.ec" tvg-name="UCSG" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="",UCSG
+http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA HD
 https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w238180654_b1300000_slen.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA 
 https://youvideostreaming.club/hls/tvec2.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA 
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://seriemaniacos.tv/wp-content/uploads/2018/04/HBO.jpg",HBO HD
-http://supersonictv.live:25461/tv/tv/74174
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPNeSkNOQvaWwrQd7_fcPGJk2WJrPMaJuKWMoCpnXFesYdep3MPrzhAwjZqxNRL7QWSMM&usqp=CAU", HBO HD
-http://supersonictv.live:25461/tv/tv/61810
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qC7ghLa.png" group-title="CINE PREMIUM",HBO 2 FUL-HD
-http://supersonictv.live:25461/tv/tv/5127
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family HD
-http://supersonictv.live:25461/tv/tv/22898
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png",CINEMAX FUL-HD
 http://supersonictv.live:25461/tv/tv/5081
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png",HBO PREMIUM
-https://s.vdo.ai/vhs/1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png",HBO + HD
-http://supersonictv.live:25461/tv/tv/5129
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGaYEWSzE2evnvF94A8klX5ntuAftJzeKGYT-xSLds2Hduh5diCO-CKbLgcK1_Gw8w4&usqp=CAU",HBO XTREME FUL-HD
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hboxtreme&f=.m3u8
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E22AQGTJ_gCzTMvDw/feedshare-shrink_800/0/1624512131908?e=1627516800&v=beta&t=ai4FiqGw2XHsf7SyX-1PBQbMfFT0GIwX9oRonji85Ms",HBO MUNDI HD
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=hbomundi&f=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdNhTNwSlZv7rSJO-HCTHxfW-Zfm2roeCxg&usqp=CAU",HBO POP FUL-HD
-http://latinoamericatv.vip:8080/fede/fede123/1243
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg",HBO SIGNATURE FUL-HD
-http://supersonictv.live:25461/tv/tv/22900
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg",HBO SIGNATURE HD
-https://micine.club/87/fastcgi.m3u8
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1111245.jpg", HBO ZONE HD
-http://supersonictv.live:25461/tv/tv/22901
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1111245.jpg", HBO ZONE HD
-http://185.66.143.240:25461/live/franky/franky/927.m3u8
-#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/hbocomedy.png", HBO COMIDI HD
-http://supersonictv.live:25461/tv/tv/22897
-#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/hbocomedy.png", HBO COMIDI
-http://185.66.143.240:25461/live/franky/franky/235.m3u8
