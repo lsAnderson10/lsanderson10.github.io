@@ -6,8 +6,6 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
-#EXTINF:-1 tvg-id="ECUAVISAHD.us" tvg-name="ECUAVISA HD" tvg-language="" tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="",ECUAVISA HD
-https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",Filmrise Free Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
@@ -20,3 +18,5 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 
+#EXTINF:-1 tvg-id="ECUAVISAHD.us" tvg-name="ECUAVISA HD" tvg-country="US" tvg-language="" tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="",ECUAVISA HD
+https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
