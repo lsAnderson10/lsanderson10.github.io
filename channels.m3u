@@ -9,7 +9,7 @@ https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD
 http://aumaletv.com:25461/roza/roza/50628?checkedby:iptvcat.com
 
-#EXTINF:-1,ES: ECUAVISA FHD
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 2
 http://aumaletv.com:25461/test123/minombre123/50628
 
 
