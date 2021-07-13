@@ -10,9 +10,6 @@ https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 https://list.iptvcat.com/my_list/s/2e45efaa2a0f499f1b400e84afac9c02.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",Filmrise Free Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",FilmRise Free Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",FilmRise Free Movies
