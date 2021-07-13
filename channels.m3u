@@ -31,3 +31,6 @@ http://rv.imax.re:80/307235264240/307235264240/80944
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN 2
 http://rv.imax.re:80/307235264240/307235264240/80945
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Ecuavisa",Ecuavisa
+https://list.iptvcat.com/my_list/s/eab14d4b1b1fe82fa352d895392341a9.m3u8
