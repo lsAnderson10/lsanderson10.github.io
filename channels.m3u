@@ -12,6 +12,13 @@ http://aumaletv.com:25461/roza/roza/50628?checkedby:iptvcat.com
 #EXTINF:-1,ES: ECUAVISA FHD
 http://aumaletv.com:25461/test123/minombre123/50628
 
+
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",HISTORIA
+http://ultrax.online:8000/raulclive/BS5I6EB/126417?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",WARNER
+http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/99?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",FilmRise Free Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",FilmRise Free Movies
