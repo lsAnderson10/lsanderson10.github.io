@@ -19,6 +19,16 @@ http://ultrax.online:8000/raulclive/BS5I6EB/126417?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",WARNER
 http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/99?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO Latino 2
+http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/104?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO PLUS
+http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/105?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO POP HD (1080p)
+http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/2077?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO XTREME HD (1080p)
+http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/2076?checkedby:iptvcat.com
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",FilmRise Free Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kzxjQ4B.png" group-title="FilmRise",FilmRise Free Movies
