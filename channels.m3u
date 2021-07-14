@@ -22,15 +22,6 @@ http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/99?checkedby:iptvcat.c
 #EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Undefined",Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO Latino 2
-http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/104?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO PLUS
-http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/105?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO POP HD (1080p)
-http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/2077?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO XTREME HD (1080p)
-http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/2076?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",OXYGEN HD
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13107?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Oxygen (East)
