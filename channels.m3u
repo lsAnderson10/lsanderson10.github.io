@@ -15,6 +15,13 @@ http://aumaletv.com:25461/noseque/minombre123/50628
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 3
 https://vps-c97214f4.vps.ovh.net/hls/tv3.m3u8
 
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 4
+http://186.101.216.211:8000/play/a038
+
+#EXTINF: -1 tvg-logo = "https://www.radiocre.com/wp-content/uploads/2015/06/logo-ecuavisa.jpg" group-title = "ECUADOR", Ecuavisa HD 5
+http://45.179.140.242:8000/play/a0ho
+
+
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",HISTORIA
 http://ultrax.online:8000/raulclive/BS5I6EB/126417?checkedby:iptvcat.com
 
