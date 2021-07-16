@@ -6,27 +6,27 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD
-http://aumaletv.com:25461/roza/roza/50628?checkedby:iptvcat.com
+##EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD
+##http://aumaletv.com:25461/roza/roza/50628?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 2
-http://aumaletv.com:25461/noseque/minombre123/50628
+##EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 2
+## http://aumaletv.com:25461/noseque/minombre123/50628
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 3
-https://vps-c97214f4.vps.ovh.net/hls/tv3.m3u8
+##EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 3
+## https://vps-c97214f4.vps.ovh.net/hls/tv3.m3u8
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 4
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 1
 http://186.101.216.211:8000/play/a038
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 5
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 2
 http://45.179.140.242:8000/play/a0ho
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 6
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 3
 http://ultrontv.xyz:80/andrew2020/andrew2020/37475
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 7
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 4
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/141701
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 5
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/141695
 
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",HISTORIA
