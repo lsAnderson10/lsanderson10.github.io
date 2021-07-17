@@ -81,6 +81,10 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/872
 
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/2560px-SYFY.svg.png" group-title="CINEMA SERIES",SD: SYFY 
+http://gratuita.mrzutv.net:8080/sdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbs/sdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdf555sdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsd/40986
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/200px-Fox_Action_Movies_logo.svg.png" group-title="English;Movies",Fox Action Movies
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
