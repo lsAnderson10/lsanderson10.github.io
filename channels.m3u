@@ -87,9 +87,6 @@ http://gratuita.mrzutv.net:8080/sdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbs
 #EXTINF:-1  ,SYFY LATINO 
 http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=syfy&f=.m3u8
 
-#EXTINF:-1 ch-id="SYFY (US)" tvg-logo="https://1.bp.blogspot.com/-mCuSzi1xQLo/YOq_xtVNz0I/AAAAAAAAAOc/Pt6W3mrsDZkYeHfBIEE-wu4M83wGimHUACLcBGAsYHQ/s320/images%25282%2529.png"  group-title="GENERAL ENTERTAINMENT",SYFY (US)
-http://stream.tvtap.net:8081/live/us-syfy.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/200px-Fox_Action_Movies_logo.svg.png" group-title="English;Movies",Fox Action Movies
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
