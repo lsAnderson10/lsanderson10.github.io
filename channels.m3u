@@ -19,6 +19,9 @@ http://45.179.140.242:8000/play/a0ho
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png",ECUADOR | ECUAVISA [Gquil]
 http://tv5full.xyz:25461/quir/quir123/1306
 
+#EXTINF:-1,ECUADOR HQ | ECUAVISA HD
+http://stalkertvlatino.com:8080/play1/play1/940
+
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 4
 http://ultrontv.xyz:80/andrew2020/andrew2020/37475
 
