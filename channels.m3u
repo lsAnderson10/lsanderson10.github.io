@@ -6,6 +6,9 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas (720p)
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",TC TV Ecuador
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ECUAVISA FHD 1
 https://vps-c97214f4.vps.ovh.net/hls/tv3.m3u8
@@ -44,18 +47,8 @@ http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/99?checkedby:iptvcat.c
 #EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Undefined",Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",OXYGEN HD 0
-https://h3.ustvgo.la/Oxygen/myStream/chunks.m3u8?nimblesessionid=30233082&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDQ6MDI6NTAgQU0maGFzaF92YWx1ZT1obXRhR2U0NEJ2aEF1YTN4bG5YemxRPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",OXYGEN HD 
+
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/13107?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Oxygen (East)
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/836?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Oxygen (East) (SD)
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/837?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Oxygen (West)
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/838?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Oxygen (West) (SD)
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/839?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Oxygen HD
 http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/107018?checkedby:iptvcat.com
 
@@ -82,17 +75,9 @@ http://rv.imax.re:80/307235264240/307235264240/80945
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",FOX Sport HD 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/872
-
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/2560px-SYFY.svg.png" group-title="CINEMA SERIES",SD: SYFY 
-http://gratuita.mrzutv.net:8080/sdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbs/sdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdf555sdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsdfbsdfbsdfsdfgbsdfbsdgfbsdgbsd/40986
-
 #EXTINF:-1  ,SYFY LATINO 
 http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=syfy&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/200px-Fox_Action_Movies_logo.svg.png" group-title="English;Movies",Fox Action Movies
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8662623e2b182f7ac9e511bd75425ae4.png",AMC Thrillers
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5fc705e2a2236e002d69f36d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
